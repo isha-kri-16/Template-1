@@ -1,0 +1,25 @@
+.password-strength{
+    font-size: 10px;
+    font-weight: 600;
+    color: #939CA3;
+    display: flex;
+    justify-content: end;
+    padding: 0px 10px;
+}
+
+.terms{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #939CA3;
+    font-family: sans-serif;
+}
+
+.terms a{
+    color: #08090A;
+}
+
+.continue{
+    background-color: #8064A2;
+    color: white;
+}

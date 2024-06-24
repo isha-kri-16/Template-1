@@ -1,0 +1,49 @@
+.start-container{
+    height: 662px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}
+
+.start-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+h1{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 54px;
+    margin-bottom: 20px;
+}
+
+.hobby{
+    color: #8064A2;
+}
+
+.comm{
+    color: #0096CB;
+}
+
+.started{
+    height: 46px;
+    width: 175px;
+    border: 1px solid #8064A2;
+    border-radius: 8px ;
+    background-color: #8064A2;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-bottom: 70px;
+}
+
+.img-start{
+    height: 300px;
+    width: 1240px;
+}

@@ -1,0 +1,90 @@
+.sign-form{
+    width: 420px;
+    height: 440px;
+    /* background-color: yellow; */
+}
+
+.google, .facebook, .continue{
+    width: 410px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid #8064A2;
+    background-color: white;
+    padding: 0px 30px;
+}
+
+.icon{
+    float: left;
+    /* margin-left: 10px; */
+}
+
+button{
+    gap: 16px;
+}
+
+button span{
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+}
+
+.separate hr{
+    width: 149px;
+    height: 2px;
+    color: #CED4DA;
+}
+
+.separate{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    margin-bottom: 10px;
+}
+
+.form-control{
+    width: 410px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid #EBEDF0;
+    margin-bottom: 16px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+    color: #939CA3;
+}
+
+label{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.remember{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: black;
+    list-style: none;
+}
+
+.checkbox a{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: black;
+    list-style-type: none;
+}
+
+.checkbox{
+    margin-bottom: 24px;
+}
+
+.continue{
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 600;
+}
